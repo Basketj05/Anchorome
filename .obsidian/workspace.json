@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "cdbfeaebbfafa5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "79892532d90e5c59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a782f77b46f3262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Continent of Anchorome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Continent of Anchorome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03af667acaaa698e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b974d29f7fa514c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb8cc937d2d6162",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc5380e0be598893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "de9f5bccbd3be4de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b407e7b32a348fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb0294f6f185e8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95ee8769f69d172",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Continent of Anchorome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Continent of Anchorome"
+            }
+          },
+          {
+            "id": "f41f2fbe24531514",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Continent of Anchorome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Continent of Anchorome"
+            }
+          },
+          {
+            "id": "4ece25992b0220a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "82ed8df83e462276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Continent of Anchorome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Continent of Anchorome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a782f77b46f3262",
+  "lastOpenFiles": [
+    "~$e Continent of Anchorome.md",
+    "The Borderlands.md",
+    "The Continent of Anchorome.md",
+    "Maztica.md",
+    "The Arm.md",
+    "Occasum.md",
+    "Map of Anchorome.png",
+    "Azmuran Empire.md",
+    "Massan.md",
+    "Bay of Balduran.md",
+    "Azmura.md",
+    "Aearee.md",
+    "A Brief History.md",
+    "The Border Lands.md",
+    "Faerun.md",
+    "Anchorome.canvas",
+    "Untitled.md",
+    "Anchorome",
+    "Welcome.md"
+  ]
+}
