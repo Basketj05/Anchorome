@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a782f77b46f3262",
+            "id": "8e0757aa0fe811f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "The Continent of Anchorome"
             }
+          },
+          {
+            "id": "9ca32b3df0c26d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Continent of Anchorome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Continent of Anchorome"
+            }
+          },
+          {
+            "id": "4bfdc16b95c1a485",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,19 +187,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a782f77b46f3262",
+  "active": "9ca32b3df0c26d8a",
   "lastOpenFiles": [
+    "Azmura.md",
+    "The Continent of Anchorome.md",
+    "Azramur.md",
+    "Map of Anchorome.png",
+    "New Waterdeep.md",
+    "Michaca.md",
+    "Itzcali.md",
     "~$e Continent of Anchorome.md",
     "The Borderlands.md",
-    "The Continent of Anchorome.md",
     "Maztica.md",
     "The Arm.md",
     "Occasum.md",
-    "Map of Anchorome.png",
     "Azmuran Empire.md",
     "Massan.md",
     "Bay of Balduran.md",
-    "Azmura.md",
     "Aearee.md",
     "A Brief History.md",
     "The Border Lands.md",

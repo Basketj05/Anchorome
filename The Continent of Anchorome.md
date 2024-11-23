@@ -21,8 +21,12 @@ Massan is a small nation in the middle east of Anchorome.
 
 **[[The Borderlands]]**
 
-The Borderlands is the far south region of Anchorome, it connects the continent to its southern neighbor [[Maztica]].
+The Borderlands is the far south region of Anchorome, it connects the continent to its southern neighbor [[Maztica]]. The city of [[New Waterdeep]] serves as a border town between the continents, considering itself a part of both Anchorome and Maztica.
 
 **[[Michaca]]**
 
-Michaca is one of the 2 
+Michaca is one of the 2 south western nations, they are a tightknit trading community within the Pasacoda Basin, and Black Mesa. They have a close relationship with [[Itzcali]].
+
+**[[Itzcali]]**
+Itzcali is one of the 2 south western nations, they have a close relationship with [[Michaca]].
+
